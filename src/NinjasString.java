@@ -1,4 +1,6 @@
 import java.util.Arrays;
+//Question Link
+//https://www.codingninjas.com/codestudio/problems/ninja-s-string_1279685?leftPanelTab=0
 
 public class NinjasString {
     public static void main(String[] args) {
