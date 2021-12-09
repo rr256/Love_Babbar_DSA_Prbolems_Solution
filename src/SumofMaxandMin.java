@@ -1,3 +1,5 @@
+//Question Link
+//https://www.codingninjas.com/codestudio/problems/sum-of-max-and-min_1081476?topList=love-babbar-dsa-sheet-problems
 public class SumofMaxandMin {
     public static void main(String[] args) {
         int[] a={2,5,7,67,-3};
